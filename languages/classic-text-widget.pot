@@ -1,0 +1,29 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-08 19:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: lib/class-classic-wp-widget-text.php:19
+msgid "The classic text widget for arbitrary html or text."
+msgstr ""
+
+#. Name of the plugin
+#: lib/class-classic-wp-widget-text.php:21
+msgid "Classic Text Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds the pre 4.8 Classic WordPress text widget just like the good old days."
+msgstr ""
